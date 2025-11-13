@@ -1,4 +1,4 @@
-# f1
+# Just a simple f1 data app using https://www.npmjs.com/package/formula-one-js
 cd into the project folder
 
 `npm i`
