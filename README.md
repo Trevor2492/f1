@@ -1,15 +1,10 @@
 # f1
-
-npm i
-
 cd into the project folder
+
+`npm i`
 
 Run commands like:
 
-Inline example: `node f1 1950`
+`node f1 <year>`
 
-Code block example:
-
-```bash
-node f1 1950
-```
+`node f1 1950`
