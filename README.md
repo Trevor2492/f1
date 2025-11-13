@@ -11,4 +11,4 @@ Run commands like:
 
 Or an external image:
 
-![screenshot](/f1 output.png)
+![screenshot](https://github.com/Trevor2492/f1/blob/main/f1%20output.png)
