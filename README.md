@@ -8,3 +8,7 @@ Run commands like:
 `node f1 <year>`
 
 `node f1 1950`
+
+Or an external image:
+
+![screenshot](/f1 output.png)
