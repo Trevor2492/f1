@@ -7,7 +7,7 @@ Run commands like:
 
 `node f1 <year>`
 
-`node f1 1950`
+example: `node f1 1950`
 
 ## example output:
 
